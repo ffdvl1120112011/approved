@@ -1,0 +1,1 @@
+8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.157-perf-g929c2decfa9b-version=1-SMP-PREEMPT-Thu-May-11-194345-CST-2023-machine=aarch64Linux-4.19.157-perf-g929c2decfa9b-aarch64-with-libcaarch64
